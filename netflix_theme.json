@@ -1,0 +1,16 @@
+{
+  "name": "Netflix Theme",
+  "dataColors": [
+    "#B81D24",
+    "#221F1F",
+    "#E50914",
+    "#8C8C8C",
+    "#831010",
+    "#564D4D",
+    "#F5F5F1",
+    "#4D4747"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#221F1F",
+  "tableAccent": "#B81D24"
+}
